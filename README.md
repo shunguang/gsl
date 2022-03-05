@@ -165,3 +165,6 @@ Contributing to GSL
 If you are interested in participating in GSL development, please see
 the webpage at http://www.gnu.org/software/gsl/
 
+Build by cmake GUI -03/04/2022
+===================
+see images under how-to-build-vs2019-by-cmake-gui/
